@@ -19,6 +19,6 @@ Machine leanrning lifecycle deployment :
 - Extract and select object features.
 - Outlier detections.
 - Create Supervised Machine Learning Models.
-- Evaluating supervised machine learning models by hyperparameter tuning.
+- Evaluating Supervised machine learning models by hyperparameter tuning.
 - Features and model refinement.
 - Machine learning model deployment.

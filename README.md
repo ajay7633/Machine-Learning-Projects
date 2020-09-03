@@ -8,7 +8,8 @@ Currently folder contains only supervised machine learning models.
 ## Overview
 
 All datasets that have been used will be included in folder and detailed description of each project under them.
+machine leanrning lifecycle deployment :
 
-I followed the pattern for machine leanrning lifecycle deployment :
+
 ![](readme-resources/machine-learning-life-cycle.png)
 

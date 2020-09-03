@@ -28,3 +28,8 @@ Shows the number of players in each category in each season. Increased Centers (
 
 
 ![](/Independent%20Study%20-%20Nba%20player%20data/images/Fig3.png)
+
+## Data Sets
+- https://data.world/datadavis/nba-salaries
+- 1st Data set:- https://data.world/datadavis/nba-salaries/workspace/file?filename=players.csv
+- 2nd Data set:-https://data.world/datadavis/nba-salaries/workspace/file?filename=salaries_1985to2018.csv

@@ -82,11 +82,11 @@ Categorical Data:
  4. Disposition
 3.We try to choose features that dont blow up in to 100s and 1000s of features after creating dummy variables.
 
-### PART 1: Loading the data
-### PART 2: Cleaning up the data
+#### Part 1: Loading the data
+#### Part 2: Cleaning up the data
   1.Removing unwanted rows (NA values) - Training Data ,  Test Data should not have any rows dropped.
   2.Dropping unnecessary columns that doesnt help with predictions - For Both Test and Training Data.
-### PART 3: Creating Dummy variables (if required) and hot encoding categorical data
+#### Part 3: Creating Dummy variables (if required) and hot encoding categorical data
     1. We need to hot encode the disposition (it becomes numbered )
     2. Dont forget to do the same transformation in Test data
         - We are replacing disposition in to reflect both the Training and Test data
@@ -101,7 +101,7 @@ We are going to consider the following columns for our classifier
 
  FOR Y:
   1.Compliance
-### PART 4 : Choosing a Classifier and testing the performace of data (HyperParameter Tuning)
+#### Part 4 : Choosing a Classifier and testing the performace of data (HyperParameter Tuning)
  
  1. Logistic Regression
   2. LinearSVM

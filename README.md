@@ -22,3 +22,8 @@ Machine leanrning lifecycle deployment :
 - Evaluating Supervised machine learning models by hyperparameter tuning.
 - Features and model refinement.
 - Machine learning model deployment.
+
+## Algorithims
+
+- Classification
+- Regression

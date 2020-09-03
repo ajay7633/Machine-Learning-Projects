@@ -1,4 +1,5 @@
-# Independent Study - NBA Player Data
+# Independent Study - NBA Player Data  
+![](/Independent%20Study%20-%20Nba%20player%20data/images/Basketball.png)
 
 ## Overview
 This project is an independent study on how the trend has changed in Basketball play style affected players over the last 35 years

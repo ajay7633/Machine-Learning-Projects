@@ -1,7 +1,7 @@
 # DataScience / Machine-Learning Projects
 
 ## About
-This Repository consists of all the Data science and machine learning and data science projects.
+This Repository consists of all the data science and machine learning projects.
 There will be always room for improvement and I will be constantly updating this folder.
 Currently folder contains only supervised machine learning models.
 
@@ -13,6 +13,8 @@ Machine leanrning lifecycle deployment :
 
 
 ![](readme-resources/machine-learning-life-cycle.png).
+
+## Steps
 
 - Extract and select object features.
 - Outlier detections.

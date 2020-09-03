@@ -9,8 +9,7 @@ This project is based on a data challenge from the Michigan Data Science Team ([
 The Michigan Data Science Team ([MDST](http://midas.umich.edu/mdst/)) and the Michigan Student Symposium for Interdisciplinary Statistical Sciences ([MSSISS](https://sites.lsa.umich.edu/mssiss/)) have partnered with the City of Detroit to help solve one of the most pressing problems facing Detroit - blight. [Blight violations](http://www.detroitmi.gov/How-Do-I/Report/Blight-Complaint-FAQs) are issued by the city who allow their properties to remain in a deteriorated condition. The city of Detroit gives millions of dollars in fines to residents, and every year, many of these fines remain unpaid. Enforcing unpaid blight fines is a costly and tedious process, so the city wants to know how to increase blight ticket compliance?
 The first step in answering this question is understanding when and why a resident might fail to comply with a blight ticket. 
 
-In this project we predict whether a given blight ticket will be paid on time for this assignment.
-
+In this project we predict whether a given blight ticket will be paid on time or not.
 
 We provide you with two data files for training and validating your models: train.csv and test.csv. Each row in these two files corresponds to a single blight ticket and includes information about when, why, and to whom each ticket was issued. The target variable is compliance, which is True if the ticket was paid early, on time, or within one month of the hearing date, False if the ticket was paid after the hearing date or not at all, and Null if the violator was found not responsible. Compliance and a handful of other variables that will not be available at test-time are only included in train.csv.
 

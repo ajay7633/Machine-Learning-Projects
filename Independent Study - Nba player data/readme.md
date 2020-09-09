@@ -1,4 +1,4 @@
-# Independent Study - NBA Player Data  
+# Data Visualization - NBA Player data 
 ![](/Independent%20Study%20-%20Nba%20player%20data/images/Basketball.png)
 
 ## Overview

@@ -8,8 +8,14 @@ Therefore, a model which can predict players’ salaries according to their perf
 on how much he is worth.
 
 There are two datasets: 
-- Dataset 1: Contains salaries of all players from 1985-2018
-- Dataset 2: Has information on player statistics.
+
+- Dataset 1: Contains salaries of all players from 1985-2018 
+(https://data.world/datadavis/nba-salaries/workspace/file?filename=salaries_1985to2018.csv)
+
+- Dataset 2: Has information on player statistics. 
+(https://data.world/datadavis/nba-salaries/workspace/file?filename=players.csv)
+
+
 
 Through my analysis, we can provide a better understanding of:
 
